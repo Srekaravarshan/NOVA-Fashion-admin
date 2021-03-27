@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "56327401284",
+    "project_id": "nova-fashion-e5b60",
+    "storage_bucket": "nova-fashion-e5b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56327401284:android:9a8c3093768516fa46f111",
+        "android_client_info": {
+          "package_name": "com.nova.fashion.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56327401284-umght42ncnbogeb9nqs9l5ae6g68q1fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nova.fashion.admin",
+            "certificate_hash": "de68640732d31e3dd7e320113c9e282d262de98d"
+          }
+        },
+        {
+          "client_id": "56327401284-v2s39r76gpsf72nckv7rmtt22qelrscp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_B2MUQ2pkauy5kbldA40xwGbwHD5UkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56327401284-v2s39r76gpsf72nckv7rmtt22qelrscp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56327401284-1vof38n3hvc6m8lqj0at4rur0rg629pa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nova.fashion.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56327401284:android:20ebfec0a80772eb46f111",
+        "android_client_info": {
+          "package_name": "com.nova.novafashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56327401284-qh3fr956aqarc1nh7ql4i93q9i1hu2j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nova.novafashion",
+            "certificate_hash": "de68640732d31e3dd7e320113c9e282d262de98d"
+          }
+        },
+        {
+          "client_id": "56327401284-v2s39r76gpsf72nckv7rmtt22qelrscp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_B2MUQ2pkauy5kbldA40xwGbwHD5UkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56327401284-v2s39r76gpsf72nckv7rmtt22qelrscp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56327401284-1vof38n3hvc6m8lqj0at4rur0rg629pa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nova.fashion.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

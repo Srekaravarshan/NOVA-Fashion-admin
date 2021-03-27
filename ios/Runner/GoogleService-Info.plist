@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>56327401284-1vof38n3hvc6m8lqj0at4rur0rg629pa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.56327401284-1vof38n3hvc6m8lqj0at4rur0rg629pa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>56327401284-qh3fr956aqarc1nh7ql4i93q9i1hu2j0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4FmeaVMEij_8C2UXPBPsbc43RC2eWKqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>56327401284</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nova.fashion.admin</string>
+	<key>PROJECT_ID</key>
+	<string>nova-fashion-e5b60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nova-fashion-e5b60.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:56327401284:ios:4de7f01fa4edbf1146f111</string>
+</dict>
+</plist>
